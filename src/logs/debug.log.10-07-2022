@@ -1,0 +1,237 @@
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:08:40.647Z"}
+{"level":"info","message":"1","service":"worker-core","timestamp":"2022-07-10T04:08:40.658Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:40.658Z"}
+{"level":"info","message":"2","service":"worker-core","timestamp":"2022-07-10T04:08:40.713Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:40.713Z"}
+{"level":"info","message":"3","service":"worker-core","timestamp":"2022-07-10T04:08:40.815Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:40.815Z"}
+{"level":"info","message":"4","service":"worker-core","timestamp":"2022-07-10T04:08:40.967Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:40.967Z"}
+{"level":"info","message":"5","service":"worker-core","timestamp":"2022-07-10T04:08:41.173Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:41.174Z"}
+{"level":"info","message":"6","service":"worker-core","timestamp":"2022-07-10T04:08:41.428Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:41.429Z"}
+{"level":"info","message":"7","service":"worker-core","timestamp":"2022-07-10T04:08:41.732Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:41.732Z"}
+{"level":"info","message":"8","service":"worker-core","timestamp":"2022-07-10T04:08:42.086Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:42.086Z"}
+{"level":"info","message":"9","service":"worker-core","timestamp":"2022-07-10T04:08:42.491Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:42.492Z"}
+{"level":"info","message":"10","service":"worker-core","timestamp":"2022-07-10T04:08:42.946Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-10T04:08:42.946Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:08:57.297Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:08:57.337Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:08:57.338Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:08:57.342Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:08:57.346Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:08:57.352Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:08:57.353Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:09:22.579Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:09:22.618Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:09:22.619Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:09:22.622Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:09:22.629Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:09:22.635Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:09:22.636Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:09:22.638Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:10:10.714Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:10:10.754Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:10:10.755Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:10:10.759Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:10:10.766Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:10:10.772Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:10:10.772Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:10:10.774Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:10:20.269Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:10:20.308Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:10:20.309Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:10:20.313Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:10:20.329Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:10:20.335Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:10:20.336Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:10:20.338Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:17:58.385Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:17:58.424Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:17:58.425Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:17:58.429Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:17:58.433Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:17:58.440Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:17:58.441Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:17:58.443Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:18:01.299Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:18:01.336Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:18:01.336Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:18:01.340Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:18:01.349Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:18:01.356Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:18:01.356Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:18:01.358Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:22:32.116Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:22:32.490Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:22:32.531Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:22:32.532Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:22:32.535Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:22:32.540Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:22:32.546Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:22:32.548Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:22:32.551Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:23:48.490Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:23:48.529Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:23:48.530Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:23:48.534Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:23:48.540Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:23:48.546Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:23:48.549Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:23:48.552Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:24:56.515Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:24:56.553Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:24:56.554Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:24:56.557Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:24:56.560Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:24:56.566Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:24:56.569Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:24:56.572Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:30.103Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:25:30.141Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:30.142Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:25:30.146Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:25:30.155Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:25:30.161Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:25:30.161Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:25:30.163Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:32.378Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:25:32.418Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:32.419Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:25:32.423Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:25:32.439Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:25:32.445Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:25:32.445Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:25:32.447Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:37.095Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:25:37.134Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:25:37.134Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:25:37.138Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:25:37.143Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:25:37.149Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:25:37.151Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:25:37.154Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T04:56:58.151Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T04:56:58.190Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T04:56:58.191Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T04:56:58.195Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T04:56:58.210Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T04:56:58.216Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T04:56:58.216Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T04:56:58.218Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:37.177Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:03:37.215Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:37.216Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:03:37.218Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:03:37.227Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:03:37.233Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:03:37.233Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:03:37.235Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:49.404Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:03:49.442Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:49.443Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:03:49.445Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:03:49.450Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:03:49.456Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:03:49.456Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:03:49.458Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:51.262Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:03:51.298Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:03:51.299Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:03:51.302Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:03:51.310Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:03:51.316Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:03:51.317Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:03:51.319Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:26:59.898Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:26:59.935Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:26:59.936Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:26:59.939Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:26:59.943Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:26:59.949Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:26:59.950Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:26:59.953Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:36:04.281Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:36:04.319Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:36:04.320Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:36:04.323Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:36:04.334Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:36:04.340Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:36:04.341Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:36:04.343Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:40:48.695Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:40:48.735Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:40:48.736Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:40:48.738Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:40:48.743Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:40:48.749Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:40:48.749Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:40:48.752Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:40:57.322Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:40:57.361Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:40:57.362Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:40:57.364Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:40:57.370Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:40:57.375Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:40:57.376Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:40:57.378Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:47:44.301Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:47:44.339Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:47:44.340Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:47:44.342Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:47:44.358Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:47:44.365Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:47:44.365Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:47:44.367Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:48:00.343Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:48:00.382Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:48:00.383Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:48:00.385Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:48:00.391Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:48:00.398Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:48:00.398Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:48:00.400Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:49:24.966Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:49:25.006Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:49:25.007Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:49:25.009Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:49:25.015Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:49:25.021Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:49:25.021Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:49:25.024Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:50:00.893Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:50:00.935Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:50:00.936Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:50:00.938Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:50:00.942Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:50:00.948Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:50:00.949Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:50:00.951Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:50:47.939Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:50:47.979Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:50:47.980Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:50:47.982Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:50:47.986Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:50:47.991Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:50:47.992Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:50:47.994Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:54:31.138Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:54:31.176Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:54:31.177Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:54:31.179Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:54:31.183Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:54:31.189Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:54:31.190Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:54:31.192Z"}
+{"level":"info","message":"RedisDB connecting...","service":"worker-core","timestamp":"2022-07-10T05:54:47.502Z"}
+{"level":"info","message":"RedisDB connected","service":"worker-core","timestamp":"2022-07-10T05:54:47.541Z"}
+{"level":"info","message":"Redis subscribed connecting...","service":"worker-core","timestamp":"2022-07-10T05:54:47.542Z"}
+{"level":"info","message":"Redis subscribed connected","service":"worker-core","timestamp":"2022-07-10T05:54:47.545Z"}
+{"level":"info","message":"Redis subscribe CIRCUIT_OPEN","service":"worker-core","timestamp":"2022-07-10T05:54:47.553Z"}
+{"level":"info","message":"Init worker is running...","service":"worker-core","timestamp":"2022-07-10T05:54:47.559Z"}
+{"level":"info","message":"Init router is running...","service":"worker-core","timestamp":"2022-07-10T05:54:47.559Z"}
+{"level":"info","message":"Server started with port 8001","service":"worker-core","timestamp":"2022-07-10T05:54:47.561Z"}

@@ -1,0 +1,4 @@
+{"level":"error","message":"Error: read ECONNRESET\n    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)","service":"worker-core","timestamp":"2022-07-09T16:33:47.037Z"}
+{"level":"error","message":"Error: read ECONNRESET\n    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)","service":"worker-core","timestamp":"2022-07-09T16:33:47.039Z"}
+{"level":"error","message":"Error: read ECONNRESET\n    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)","service":"worker-core","timestamp":"2022-07-09T16:33:47.040Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)","service":"worker-core","timestamp":"2022-07-09T16:33:47.148Z"}
